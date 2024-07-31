@@ -1,14 +1,14 @@
 {
     "Users" : {
-        "Fernando" : {
-            "userAccount" : "4473843284723847",
-            "userKey" : "yh47yui43u5yh",
-            "money" : 2000
+        "Generic user1" : {
+            "userAccount" : "?",
+            "userKey" : "?",
+            "money" : "?"
         },
-        "Monica" : {
-            "userAccount" : "859834597294839",
-            "userKey" : "138fhdaup9288",
-            "money" : 4000
+        "Generic user2" : {
+            "userAccount" : "?",
+            "userKey" : "?",
+            "money" : "?"
         }
     }
 }
