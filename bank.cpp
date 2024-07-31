@@ -8,7 +8,7 @@ int main() {
     cout << "#####Bank system#####" << "\n" << std::endl;
 
     //User: Test
-    string user = "Fernando";
+    string user = "generic user";
     int userAccount2 = 18293820;
     int userPassword = 8194;
     
